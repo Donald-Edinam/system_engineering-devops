@@ -1,2 +1,3 @@
 #!/bin/bash
 touch hello
+# Compare this snippet from 0x01-shell_permissions/5-execute:
